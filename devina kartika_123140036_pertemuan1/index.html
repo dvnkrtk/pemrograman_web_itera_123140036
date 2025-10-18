@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Aplikasi Manajemen Tugas Mahasiswa</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Aplikasi Manajemen Tugas Mahasiswa</h1>
+      <div class="stats muted">Tugas belum selesai: <strong id="incompleteCount">0</strong></div>
+    </header>
+
+    <div class="grid">
+      <section>
+        <div class="card">
+          <div class="search">
+            <input id="searchInput" type="text" placeholder="Cari tugas..." />
+            <select id="statusFilter">
+              <option value="all">Semua status</option>
+              <option value="incomplete">Belum selesai</option>
+              <option value="complete">Selesai</option>
+            </select>
+            <select id="courseFilter"><option value="all">Semua mata kuliah</option></select>
+            <button id="clearFilters" class="btn-ghost">Reset</button>
+          </div>
+
+          <div id="tasksList" class="tasks"></div>
+
+          <div class="muted stats-footer">
+            <div>Total tugas: <span id="totalCount">0</span></div>
+            <div>Tugas hari ini: <span id="todayCount">0</span></div>
+          </div>
+        </div>
+        <footer>Data tersimpan otomatis di <code>localStorage</code>.</footer>
+      </section>
+
+      <aside>
+        <div class="card">
+          <h3>Tambah / Edit Tugas</h3>
+          <form id="taskForm">
+            <input type="hidden" id="taskId" />
+            <label>Nama Tugas<input id="title" type="text" required /></label>
+            <div id="titleError" class="error"></div>
+
+            <label>Mata Kuliah<input id="course" type="text" required /></label>
+            <div id="courseError" class="error"></div>
+
+            <label>Deadline<input id="deadline" type="date" required /></label>
+            <div id="deadlineError" class="error"></div>
+
+            <div class="form-actions">
+              <button type="submit">Simpan</button>
+              <button type="button" id="cancelEdit" class="btn-ghost">Batal</button>
+            </div>
+          </form>
+          <hr />
+          <ul class="muted">
+            <li>Nama tugas wajib diisi</li>
+            <li>Deadline tidak boleh sebelum hari ini</li>
+            <li>Gunakan tombol edit untuk ubah tugas</li>
+          </ul>
+        </div>
+      </aside>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
