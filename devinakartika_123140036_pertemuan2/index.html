@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Goodnotes ✨</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>'Goodnotes' for devina</h1>
+        <p>Write, type, and collaborate — all in one intelligent place!</p>
+    </header>
+
+    <main>
+        <div class="input-section">
+            <textarea id="noteInput" placeholder="Tulis catatanmu di sini..."></textarea>
+            <div class="controls">
+                <label for="noteColor">Pilih Warna:</label>
+                <input type="color" id="noteColor" value="#ffffa5"> <button id="addNoteBtn">Tambahkan Catatan</button>
+            </div>
+        </div>
+
+        <div class="note-grid-container">
+            <h2>Catatan Saya</h2>
+            <div id="noteGrid" class="note-grid">
+                </div>
+        </div>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
