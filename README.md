@@ -11,7 +11,7 @@ Repositori ini didedikasikan untuk mengumpulkan dan menyimpan seluruh tugas prak
 | **Kode Mata Kuliah** | 	IF25-22014 |
 | **Nama Mata Kuliah** | Pengembangan Aplikasi Web |
 | **Dosen Pengampu** | Muhammad Habib Algifari, S.Kom., M.T.I. |
-| **Nama Asisten Praktikum** | Ahmad Fadillah |
+| **Nama Asisten Praktikum** | Ahmad Fadillah, S.Kom. |
 | **Nama Mahasiswa** | Devina Kartika |
 | **NIM** | 123140036 |
 | **Program Studi** | Teknik Informatika |
