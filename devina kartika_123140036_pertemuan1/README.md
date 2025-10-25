@@ -1,11 +1,11 @@
-# 🎓 Aplikasi Manajemen Tugas Mahasiswa
+# Aplikasi Manajemen Tugas Mahasiswa
 
 Aplikasi web sederhana untuk membantu mahasiswa dalam **mengelola daftar tugas perkuliahan**.  
 Dibangun menggunakan **HTML, CSS, dan JavaScript murni (tanpa framework)** dengan penyimpanan data menggunakan **Local Storage**.
 
 ---
 
-## 📋 Deskripsi
+## Deskripsi
 
 Aplikasi ini berfungsi sebagai **pengelola tugas pribadi** bagi mahasiswa.  
 Kamu dapat:
@@ -20,7 +20,7 @@ Semua proses berjalan **offline**, sehingga aplikasi tetap berfungsi tanpa konek
 
 ---
 
-## 🧩 Fitur Utama
+## Fitur Utama
 
 | Fitur | Deskripsi |
 |-------|------------|
@@ -35,7 +35,7 @@ Semua proses berjalan **offline**, sehingga aplikasi tetap berfungsi tanpa konek
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 - **HTML5** → Struktur halaman  
 - **CSS3** → Desain tema gelap yang elegan  
