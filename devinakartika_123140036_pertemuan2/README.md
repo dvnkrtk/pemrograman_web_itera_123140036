@@ -31,7 +31,7 @@ Aplikasi ini dapat dijalankan langsung di *browser* modern tanpa perlu *web serv
 
 1.  **Clone Repository:**
     ```bash
-    git clone [https://github.com/dvnkrtk/pemrograman_web_itera_123140036/tree/main/devinakartika_123140036_pertemuan2]
+    git clone [https://github.com/dvnkrtk/pemrograman_web_itera_123140036/tree/main/devinakartika_123140036_pertemuan2.git]
     ```
 2.  **Buka File:** Buka folder proyek dan *double-click* pada file `index.html` atau seret ke jendela *browser* Anda.
 3.  **Mulai Mencatat:**
