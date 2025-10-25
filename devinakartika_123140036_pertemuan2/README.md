@@ -2,7 +2,7 @@
 
 **Goodnotes** adalah aplikasi personal dashboard sederhana yang berfokus pada fitur pencatatan interaktif dengan kemampuan kustomisasi warna. Dibangun menggunakan fitur-fitur modern JavaScript (ES6+), aplikasi ini menyimpan data catatan Anda secara lokal menggunakan `localStorage`. 'Goodnotes' ini dibuat oleh devina agar aplikasi untuk menambah catatannya.
 
-## ✨ Fitur Utama
+## Fitur Utama
 
 * **Pencatatan Interaktif:** Tambah, Edit, dan Hapus catatan dengan mudah.
 * **Kustomisasi Warna:** Setiap catatan dapat diberi warna latar belakang unik untuk visualisasi yang menarik dan rapi.
@@ -38,4 +38,4 @@ Aplikasi ini dapat dijalankan langsung di *browser* modern tanpa perlu *web serv
     * Isi catatan Anda di area teks.
     * Pilih **warna** yang Anda inginkan.
     * Klik **Tambahkan Catatan**.
-    * Gunakan tombol **✏️ (Edit)** dan **🗑️ (Hapus)** pada setiap kartu catatan untuk berinteraksi.
+    * Gunakan tombol **(Edit)** dan **(Hapus)** pada setiap kartu catatan untuk berinteraksi.
