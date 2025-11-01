@@ -22,7 +22,7 @@ Pastikan **Node.js** sudah terpasang.
 git clone https://github.com/dvnkrtk/pemrograman_web_itera_123140036.git 
 
 # Masuk ke folder proyek
-cd my-book-manager
+cd devinakartika_123140036_pertemuan3
 
 # Instal dependensi
 npm install
