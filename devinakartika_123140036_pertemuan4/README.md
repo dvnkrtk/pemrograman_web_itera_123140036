@@ -3,7 +3,7 @@
 ---
 
 ## Deskripsi Program
-Program ini dibuat untuk **mengelola data nilai mahasiswa** menggunakan bahasa pemrograman **Python**. Tujuannya adalah untuk melatih pemahaman dasar Python dalam pemrograman backend — mencakup struktur data, fungsi, perhitungan, dan input/output.
+Program ini dibuat untuk **mengelola data nilai mahasiswa** menggunakan bahasa pemrograman **Python**. Tujuannya adalah untuk melatih pemahaman dasar Python dalam pemrograman, mencakup struktur data, fungsi, perhitungan, dan input/output.
 
 ---
 
