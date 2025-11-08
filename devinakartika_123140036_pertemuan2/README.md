@@ -31,7 +31,7 @@ Proyek ini dibuat untuk praktik implementasi fitur-fitur modern JavaScript (ES6+
 ![Tampilan](https://github.com/dvnkrtk/pemrograman_web_itera_123140036/blob/main/devinakartika_123140036_pertemuan2/public/Goodnotes.png )
 
 ### Jika menghapus catatan
-![Hapus](https://github.com/dvnkrtk/pemrograman_web_itera_123140036/blob/main/devinakartika_123140036_pertemuan2/public/Hapus.png )
+![Hapus](https://github.com/dvnkrtk/pemrograman_web_itera_123140036/blob/main/devinakartika_123140036_pertemuan2/public/Menghapus.png)
 
 ---
 
