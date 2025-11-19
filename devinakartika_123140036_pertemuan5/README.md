@@ -22,7 +22,7 @@ Program ini dibuat untuk memenuhi tugas praktikum OOP Python dan sudah menerapka
 - Cari item berdasarkan **judul** (partial match)
 
 ### 🔹 Menu Interaktif
-Program memiliki menu:
+Program memiliki menu
 
 ---
 
