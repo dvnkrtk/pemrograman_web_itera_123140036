@@ -22,7 +22,12 @@ Program ini dibuat untuk memenuhi tugas praktikum OOP Python dan sudah menerapka
 - Cari item berdasarkan **judul** (partial match)
 
 ### 🔹 Menu Interaktif
-Program memiliki menu:
+Program memiliki menu: 
+- Tambah Buku
+- Tambah Majalah
+- Tampilkan Semua Item
+- Cari Item (berdasarkan ID/Judul)
+- Keluar
 
 ---
 
@@ -54,7 +59,18 @@ Program memiliki menu:
 ---
 
 ## Screenshot Program
-SS INI
+### Tampilan ketika menambah buku ke perpustakaan   
+![Tampilan 1](https://github.com/dvnkrtk/pemrograman_web_itera_123140036/blob/main/devinakartika_123140036_pertemuan5/img/img%201.png
+)
+
+### Tampilan ketika menambah majalah ke perpustakaan 
+![Tampilan 2](https://github.com/dvnkrtk/pemrograman_web_itera_123140036/blob/main/devinakartika_123140036_pertemuan5/img/img%202.png)
+
+### Tampilan semua item
+![Tampilan 3](https://github.com/dvnkrtk/pemrograman_web_itera_123140036/blob/main/devinakartika_123140036_pertemuan5/img/img%203.png)
+
+### Tampilan ketika mencari item berdasarkan ID atau Judul  
+![Tampilan 4](https://github.com/dvnkrtk/pemrograman_web_itera_123140036/blob/main/devinakartika_123140036_pertemuan5/img/img%204.png)
 
 ---
 

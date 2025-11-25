@@ -1,10 +1,10 @@
-# 💻 Pemrograman Web (ITERA) - 123140036
+# Pemrograman Web (ITERA) - 123140036
 
 Repositori ini didedikasikan untuk mengumpulkan dan menyimpan seluruh tugas praktikum mata kuliah **Pengembangan Aplikasi Web** (Pemrograman Web) di **Institut Teknologi Sumatera (ITERA)**.
 
 ---
 
-## 📚 Informasi Mata Kuliah
+## Informasi Mata Kuliah
 
 | Keterangan | Detail |
 | :--- | :--- |
