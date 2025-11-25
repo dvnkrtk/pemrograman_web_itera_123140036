@@ -28,7 +28,7 @@ pip install -e ".[testing]"
 ```
 
 ### Konfigurasi Database
-Secara default `development.ini` menggunakan SQLite (`sqlite:///pyramid_mahasiswa.sqlite`). Untuk mengganti database, ubah nilai berikut:
+Secara default `development.ini` menggunakan SQLite (`sqlite:///pyramid_mahasiswa.sqlite`). Kemudian untuk mengganti database nya ubah pada nilai sebagai berikut:
 ```ini
 sqlalchemy.url = postgresql+psycopg2://user:pass@localhost:5432/pyramid_mahasiswa
 ```
@@ -40,14 +40,14 @@ sqlalchemy.url = postgresql+psycopg2://user:pass@localhost:5432/pyramid_mahasisw
 ### Menjalankan Migrasi
 ```bash
 alembic -c development.ini upgrade head
-initialize_pyramid_mahasiswa_db development.ini  # opsi untuk seed data contoh
+initialize_pyramid_mahasiswa_db development.ini
 ```
 
 ### Menjalankan Server
 ```bash
 pserve development.ini --reload
 ```
-Server aktif di `http://localhost:6543`. Halaman utama menampilkan dokumentasi singkat beserta daftar endpoint.
+Server aktif di `http://localhost:6543`.
 
 ## API Endpoints
 Server berjalan pada `http://localhost:6543`.
